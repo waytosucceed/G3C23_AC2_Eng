@@ -1,0 +1,267 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Adjectives describe _____.",
+        "options": [
+            "verbs",
+            "adverbs",
+            "nouns",
+            "prepositions"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Which word is an adjective in the following sentence? 'The happy dog wagged its tail.'",
+        "options": [
+            "happy",
+            "dog",
+            "wagged",
+            "tail"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which word is an adverb in the following sentence? 'She sang beautifully on stage.'",
+        "options": [
+            "she",
+            "sang",
+            "beautifully",
+            "stage"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Adverbs describe _____, _____, or other _____.",
+        "options": [
+            "nouns, pronouns, adjectives",
+            "verbs, adjectives, adverbs",
+            "prepositions, conjunctions, interjections",
+            "articles, nouns, verbs"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "“Happy”, “Tall”, and “Gracefully” are all adjectives.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Fill in the blank with an adjective: The _____ sunset painted the sky in vibrant colours.",
+        "options": [
+            "quickly",
+            "gently",
+            "beautiful",
+            "loudly"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Fill in the blank with an adverb: The student _____ completed the difficult assignment.",
+        "options": [
+            "smart",
+            "successfully",
+            "challenging",
+            "diligent"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Which word is an adjective in the following sentence? 'The tall tree swayed in the wind.'",
+        "options": [
+            "tall",
+            "tree",
+            "swayed",
+            "wind"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Which word is an adverb in the following sentence? 'The cat meowed loudly for food.'",
+        "options": [
+            "cat",
+            "meowed",
+            "loudly",
+            "food"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Adverbs can only describe verbs.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Adjectives provide details about actions.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Fill in the blank with an adjective: The _____ puppy played with its toy.",
+        "options": [
+            "quickly",
+            "adorable",
+            "loudly",
+            "gently"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Fill in the blank with an adverb: The athletes ran _____ around the track.",
+        "options": [
+            "quick",
+            "swiftly",
+            "fast",
+            "speedy"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Which word is an adjective in the following sentence? 'The kind teacher helped the students.'",
+        "options": [
+            "kind",
+            "teacher",
+            "helped",
+            "students"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Which word is an adverb in the following sentence? 'The leaves fell gently from the trees.'",
+        "options": [
+            "leaves",
+            "fell",
+            "gently",
+            "trees"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Adjectives always end in '-ly.'",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Fill in the blank with an adjective: The _____ music filled the concert hall.",
+        "options": [
+            "beautifully",
+            "enchanting",
+            "softly",
+            "melodiously"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Fill in the blank with an adverb: The butterfly fluttered _____ from flower to flower.",
+        "options": [
+            "graceful",
+            "delicate",
+            "gracefully",
+            "colourful"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Which word is an adjective in the following sentence? 'The brave firefighter rescued the kitten.'",
+        "options": [
+            "brave",
+            "firefighter",
+            "rescued",
+            "kitten"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Which word is an adverb in the following sentence? 'The child slept peacefully through the night.'",
+        "options": [
+            "child",
+            "slept",
+            "peacefully",
+            "night"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Adverbs can modify other adverbs.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "Fill in the blank with an adjective: The _____ rainbow appeared after the storm.",
+        "options": [
+            "brightly",
+            "colourful",
+            "suddenly",
+            "vividly"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Fill in the blank with an adverb: The team worked _____ to complete the project on time.",
+        "options": [
+            "diligent",
+            "hard",
+            "diligently",
+            "hardest"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "Identify the correct pair for this sentence: 'The friendly waiter served the customers politely.'",
+        "options": [
+            "Waiter: adverb",
+            "Customers: adjective",
+            "Politely: adverb",
+            "None of the above"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "Identify the correct pair for this sentence: ‘The smart student carefully wrote the difficult essay.’",
+        "options": [
+            "Smart: adjective",
+            "Difficult: adjective",
+            "Carefully: adverb",
+            "All of the above"
+        ],
+        "correct": 3
+    }
+]
